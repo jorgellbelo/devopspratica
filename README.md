@@ -1,5 +1,5 @@
 
-# Desafio: Implementação de Práticas DevOps em um Ambiente Empresarial Fictício
+# Desafio: Implementação de Práticas DevOps
 
 ## Etapas do Projeto
 
