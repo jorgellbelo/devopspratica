@@ -1,10 +1,6 @@
 
 # Desafio: Implementação de Práticas DevOps em um Ambiente Empresarial Fictício
 
-## Introdução
-
-Nesse desafio, você irá simular a implementação de práticas DevOps num ambiente empresarial fictício. Utilizará os conceitos de CALMS e as Três Maneiras do DevOps para identificar oportunidades de aprimoramento nos processos existentes e propor soluções que cultivem uma cultura de colaboração, automação e aprendizado contínuo.
-
 ## Etapas do Projeto
 
 1. Diagnóstico Cultural (C de CALMS)
